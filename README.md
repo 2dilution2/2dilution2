@@ -13,8 +13,7 @@
 - 클라우드: ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 - 컨테이너: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2dilution2&theme=shadow_green&show_icons=true)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2dilution2&theme=shadow_green&show_icons=true) -->
 ## 🚀 프로젝트
 
 ### 1. [개인][쇼핑몰 Acoustic](🔥진행중🔥)
