@@ -17,12 +17,17 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2dilution2&theme=shadow_green&show_icons=true) -->
 ## 🚀 프로젝트
 
-### 1. {개인} [쇼핑몰 Acoustic](https://github.com/2dilution2/Personal_project_1_Spring) (🔥진행중🔥)
+### 1. {개인} [쇼핑몰 'Acoustic'](https://github.com/2dilution2/Personal_project_1_Spring) (🔥진행중🔥)
 - 목적: Front-end와 Backend를 익힐 수있는 프로젝트
 - 기술 스택: 
 - 역할: 
 
-### 2. {팀} [데이트코스 추천 웹앱 DateRoad](#) (🔥진행중🔥)
+### 2. {팀} [여행 동행 커뮤니티 '여행크루'](#) (🔥진행중🔥)
+- 목적: 
+- 기술 스택: 
+- 역할:
+
+### 3. {개인} [건강 증상 커뮤니티 'Signal Mate;] (🔥진행중🔥)
 - 목적: 
 - 기술 스택: 
 - 역할: 
