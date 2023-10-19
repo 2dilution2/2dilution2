@@ -17,12 +17,12 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2dilution2&theme=shadow_green&show_icons=true) -->
 ## 🚀 프로젝트
 
-### {팀} [여행 동행 커뮤니티 '여행크루'](#) (🔥진행중🔥)
+### {팀} [여행 동행 커뮤니티 '여행크루'](https://github.com/CRUDE-HI/travel-crew-server) (🔥진행중🔥)
 - 목적: 
 - 기술 스택: 
 - 역할:
 
-### {개인} [건강 증상 커뮤니티 'Signal Mate'](#) (🔥진행중🔥)
+### {개인} [건강 증상 커뮤니티 'Signal Mate'](https://github.com/2dilution2/SignalMate) (백엔드 완료 프론트 예정🔥진행중🔥)
 - 목적: 
 - 기술 스택: 
 - 역할: 
