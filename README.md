@@ -26,6 +26,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2dilution2&theme=shadow_green&show_icons=true) -->
 
 ## 🚀 프로젝트
+각 프로젝트에는 해당 프로젝트를 진행하며 사용한 주요 기술 스택을 함께 기재하여, 프로젝트별 기술 활용 능력을 보여줍니다.
 
 ### {팀} [AI를 이용해 사랑하는 고인과의 대화 서비스 'Voice Of the Star'](https://github.com/Think-Tank-6/Voice-Of-the-Star) (완료)
 - 목적: AI 모델(Prompt Engineering, Speech Separator, TTS)을 활용, 고인의 채팅 스타일과 목소리를 재현하여 그리움을 달래고 싶은 이들을 위한 고인과의 대화 서비스.
