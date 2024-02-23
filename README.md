@@ -35,8 +35,13 @@
 
 ### {팀} [여행 동행 커뮤니티 '여행크루'](https://github.com/CRUDE-HI/travel-crew-server) (완료)
 - 목적: 목적지를 공유하는 여행자들을 연결하는 플랫폼, 함께 떠나는 여행의 동반자를 찾아주는 사이트입니다.
-- 기술 스택: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=spring&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?logo=amazon-s3&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- 기술 스택: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?logo=amazon-s3&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 - 역할: Notion 초기 세팅, ERD 설계, 관리자 페이지 개발(F, B), 채팅개발(F, B)
+
+### {팀{ [습관 바로잡기 서비스 '66일'] (진행중)
+- 목적: 66일간의 습관 트래킹을 통해 좋은 습관을 잡아주는 서비스입니다.
+- 기술스택:  ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- 역할: 
 
 ### {개인} [AI 사진 분류 서비스 'CategorEyes'](https://github.com/2dilution2/SignalMate) (완료)
 - 목적: AI 모델을 활용하여 유사한 사진의 카테고리를 지정, 자동으로 분류를 해주는 서비스 입니다.
