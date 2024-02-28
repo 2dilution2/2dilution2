@@ -39,7 +39,7 @@
 - 역할: Notion 초기 세팅, ERD 설계, 관리자 페이지 개발(F, B), 채팅개발(F, B)
 
 ### {팀{ [습관 바로잡기 서비스 '66일'](https://github.com/ThinkTank-Unit/66Days-server) (🔥진행중🔥)
-- 목적: 66일간의 습관 트래킹을 통해 좋은 습관을 잡아주는 서비스입니다.
+- 목적: 66일간의 습관 트래킹을 통해 좋은 습관을 잡아주는 서비스
 - 기술스택:  ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 - 역할: 
 
@@ -47,6 +47,11 @@
 - 목적: AI 모델을 활용하여 유사한 사진의 카테고리를 지정, 자동으로 분류를 해주는 서비스
 - 기술 스택: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?logo=amazon-s3&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 - 역할: Frontend 및 Backend 개발, AI 모델 탐색, AWS S3 버킷 연결, DynamoDB 연결
+
+### {개인} [기타 악보 어플 'Guitarchi is sanai'](https://github.com/2dilution2/Guitarchi-is-sanai) (🔥진행중🔥)
+- 목적: 원하는 곡의 기타 코드를 확인 할 수 있고 원하는 노래의 코드를 등록할 수 있는 서비스
+- 기술 스택: ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+- 역할: 1인 개발
 
 ### {개인} [건강 증상 커뮤니티 'Signal Mate'](https://github.com/2dilution2/SignalMate) (진행중)
 - 목적: 건강증상을 공유하며 유행병이나 대처법에 대해 공유할 수 있는 게시판
