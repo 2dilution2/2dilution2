@@ -23,7 +23,9 @@
 
 - 머신러닝 및 AI:  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Transformer](https://img.shields.io/badge/-Transformer-B31B1B?logo=transformer&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2dilution2&theme=shadow_green&show_icons=true) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=2dilution2&hide_border=%EA%B1%B0%EC%A7%93&border_radius=4&locale=ko)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2dilution2&layout=compact&theme=material-palenight&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2dilution2&theme=shadow_green&show_icons=true) -->
 
 ## 🚀 프로젝트
 각 프로젝트에는 해당 프로젝트를 진행하며 사용한 주요 기술 스택을 함께 기재하여, 프로젝트별 기술 활용 능력을 보여줍니다.
